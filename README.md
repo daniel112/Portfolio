@@ -1,5 +1,6 @@
 # Portfolio
 Some of my past mobile app work both personal and professional. Not in any particular order. <br/>
+The features I took part in will be mentioned in each project's description.
 
 Native iOS Swift/Objective-C</br>
 [GRUM](#grum)<br/>
