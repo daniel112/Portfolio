@@ -6,13 +6,13 @@ Most of the apps have been designed around the MVVM / MVC pattern with the excep
 Native iOS Swift/Objective-C</br>
 [GRUM](#grum)<br/>
 [Inventory Management](#inventorymanagement)<br/>
-[MachineryTrader](#machinery-trader)<br/>
+[MachineryTrader](#machinerytrader)<br/>
 [Mobile Application Versioning](#mobile-application-versioning)<br/>
 
 Xamarin C#<br/>
 [Piedmontese Beef](#piedmontese-beef)<br/>
-[EVSlideshow]()<br/>
-[GoetiaGuide]()<br/>
+EVSlideshow<br/>
+GoetiaGuide<br/>
 [InstantChat](#instant-chat)<br/>
 [DigitalEditions Template]()<br/>
 
