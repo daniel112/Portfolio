@@ -1,7 +1,21 @@
 # Portfolio
 Some of my past mobile app work both personal and professional. Not in any particular order. <br/>
+
+Native iOS Swift/Objective-C</br>
 [GRUM](#grum)<br/>
+[Inventory Management](#inventorymanagement)<br/>
+[MachineryTrader](#machinery-trader)<br/>
+[Mobile Application Versioning](#mobile-application-versioning)<br/>
+[AuctionTime](#auctiontime)<br/>
+
+Xamarin C#<br/>
 [Piedmontese Beef](#piedmontese-beef)<br/>
+[EVSlideshow](#evslideshow)<br/>
+[GoetiaGuide](#goetiaguide)<br/>
+[InstantChat](#instant-chat)<br/>
+[DigitalEditions Template](#digital-editions-template)<br/>
+
+
 
 
 ## GRUM
@@ -32,3 +46,45 @@ Sole developer from initial design to first initial release. [App store link](ht
 [digital edition](https://github.com/daniel112/Portfolio/blob/master/Piedmontese/digitalEditions.png?raw=true)<br/>
 [list view](https://github.com/daniel112/Portfolio/blob/master/Piedmontese/cuts.png?raw=true)<br/>
 [details view](https://github.com/daniel112/Portfolio/blob/master/Piedmontese/details.png?raw=true)<br/>
+
+
+## InventoryManagement
+**Language**: Swift 4 <br/>
+**Backend**: Realm, .NET, MySQL <br/>
+**Features**: TBA <br/>
+**Design Pattern**: MVVM / MVC / VIPER <br/>
+TBA
+
+#### ScreenShots
+TBA
+
+## MachineryTrader
+**Language**: Objective-C <br/>
+**Backend**: .NET, MySQL <br/>
+**Features**: TBA <br/>
+**Design Pattern**: MVVM / MVC <br/>
+TBA
+
+#### ScreenShots
+
+
+
+## Mobile Application Versioning
+**Language**: Objective-C <br/>
+**Backend**: .NET, MySQL <br/>
+**Features**: TBA <br/>
+**Design Pattern**: MVC <br/>
+TBA
+
+#### ScreenShots
+
+
+
+## AuctionTime
+**Language**: Objective-C <br/>
+**Backend**: .NET, MySQL <br/>
+**Features**: TBA <br/>
+**Design Pattern**: MVVM / MVC <br/>
+TBA
+
+#### ScreenShots
