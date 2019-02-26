@@ -14,8 +14,8 @@ Xamarin C#<br/>
 [TummyTime Abstract](#tummytime)<br/>
 EVSlideshow<br/>
 GoetiaGuide<br/>
-[InstantChat](#instant-chat)<br/>
-[DigitalEditions Template]()<br/>
+[InstantChat] - TBA<br/>
+[DigitalEditions Template] - TBA<br/>
 
 
 
